@@ -20,6 +20,6 @@ The folder contains the following devices, orgnanized by categories:
 
 - MC Stereo Panner: Takes up to 32 channels in (using MC recievers), and pans them to a stereo field
 
-### MIDI
+### Utility
 
-- MIDI Toggle Multi-Mapper: TBA
+- [MultiMap Receiver](https://maxforlive.com/library/device/8060/multimap-receiver): Link any parameter in Live to anything sent from a global send object in Live or Max.
