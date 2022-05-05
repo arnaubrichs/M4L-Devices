@@ -20,6 +20,7 @@ The folder contains the following devices, orgnanized by categories:
 ### Panning
 
 - MC Stereo Panner: Takes up to 32 channels in (using MC recievers), and pans them to a stereo field.
+- MC > Spat: A hack of PanoLiveControl for sending individual MC channels to the PanoLive M4l device.
 
 ### Utility
 
