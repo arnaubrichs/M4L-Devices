@@ -15,7 +15,6 @@ The folder contains the following devices, orgnanized by categories:
 
 - Enveloper: Trigger an envelope manually, randomly, or using a MIDI input.
 - Onset Detector: Using Flucoma's [Onset detection](https://learn.flucoma.org/reference/onsetslice/) algorithm, send a bang to a custom-named reciever. 
-- SendRandValues: Upon recieving a MIDI note onset, trigger a random value within a range to a custom-named reciever (normalised from 0.-1.). 
 
 ### Panning
 
