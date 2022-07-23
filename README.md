@@ -10,6 +10,7 @@ The folder contains the following devices, orgnanized by categories:
 ### Processing
 
 - [HarmPercSeparation 1.0](https://maxforlive.com/library/device/7920/harmpercseparation): Performs harmonic/percussive separation using Flucoma's [HPSS algorithm](https://learn.flucoma.org/reference/hpss/).
+- [Audio Transport 1.0](https://maxforlive.com/library/device.php?id=8281): enables morphing and hybridisation of 2 sounds.
 
 ### Dynamics
 
