@@ -10,12 +10,12 @@ The folder contains the following devices, orgnanized by categories:
 ### Processing
 
 - [HarmPercSeparation 1.0](https://maxforlive.com/library/device/7920/harmpercseparation): Performs harmonic/percussive separation using Flucoma's [HPSS algorithm](https://learn.flucoma.org/reference/hpss/).
-- [Audio Transport 1.0](https://maxforlive.com/library/device.php?id=8281): Enables morphing and hybridisation between two sounds.
+- [Audio Morph 1.0](https://maxforlive.com/library/device.php?id=8281): Enables morphing and hybridisation between two sounds.
 
 ### Dynamics
 
 - [MIDI Gain](https://maxforlive.com/library/device/8221/midi-enveloper): Gate a sound using a MIDI input.
-- OnsetPitch Detector: Using Flucoma's [Onset detection](https://learn.flucoma.org/reference/onsetslice/) algorithm, send current MIDI note out. 
+- OnsetPitch Detector: Using Flucoma's [Onset detection](https://learn.flucoma.org/reference/onsetslice/) algorithm, send currently detected note out as MIDI. 
 
 ### Panning
 
