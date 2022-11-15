@@ -15,7 +15,7 @@ The folder contains the following devices, orgnanized by categories:
 ### Dynamics
 
 - [MIDI Gain](https://maxforlive.com/library/device/8221/midi-enveloper): Gate a sound using a MIDI input.
-- Onset Detector: Using Flucoma's [Onset detection](https://learn.flucoma.org/reference/onsetslice/) algorithm, send a bang to a custom-named reciever. 
+- OnsetPitch Detector: Using Flucoma's [Onset detection](https://learn.flucoma.org/reference/onsetslice/) algorithm, send current MIDI note out. 
 
 ### Panning
 
