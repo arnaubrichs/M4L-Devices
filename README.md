@@ -17,10 +17,6 @@ The folder contains the following devices, orgnanized by categories:
 - [MIDI Gain](https://maxforlive.com/library/device/8221/midi-enveloper): Gate a sound using a MIDI input.
 - OnsetPitch Detector: Using Flucoma's [Onset detection](https://learn.flucoma.org/reference/onsetslice/) algorithm, send currently detected note out as MIDI. 
 
-### Panning
-
-- MC Stereo Panner: Takes up to 32 channels in (using MC recievers), and pans them to a stereo field.
-
 ### Utility
 
 - [MultiMap Receiver 1.0](https://maxforlive.com/library/device/8060/multimap-receiver): Map any parameter in Live to anything sent from a global send object in Live or Max.
